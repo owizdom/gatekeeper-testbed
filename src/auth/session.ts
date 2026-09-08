@@ -1,1 +1,1 @@
-export function session() { return 'guarded' }
+export function session() { return 'pricing' }
