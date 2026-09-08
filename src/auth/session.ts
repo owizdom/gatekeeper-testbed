@@ -1,0 +1,1 @@
+export function session() { return 'guarded' }
